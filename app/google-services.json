@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "413896384403",
+    "project_id": "web-call-227c8",
+    "storage_bucket": "web-call-227c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413896384403:android:750e4c4f4886feac881266",
+        "android_client_info": {
+          "package_name": "com.example.web_call_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413896384403-o6q6ir78rri8b1mku39tu5nua6alpg3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChDOnnZY8SxVTDe46pfLbIzGNVo9WhXYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413896384403-o6q6ir78rri8b1mku39tu5nua6alpg3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
